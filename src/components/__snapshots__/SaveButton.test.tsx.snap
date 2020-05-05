@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`component RefreshButton RefreshButton should match snapshot 1`] = `
+<button
+  className="sc-AxjAm sc-AxirZ OFvGj hidden"
+  disabled={false}
+  onClick={[Function]}
+/>
+`;
+
+exports[`component RefreshButton RefreshButton should match snapshot 2`] = `
+<button
+  className="sc-AxjAm sc-AxirZ OFvGj visible"
+  disabled={false}
+  onClick={[Function]}
+/>
+`;

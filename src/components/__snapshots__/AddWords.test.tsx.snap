@@ -1,0 +1,157 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`component AddWords AddWords should match snapshot 1`] = `
+Array [
+  <section
+    className="sc-AxhCb iZhZLK hidden"
+  >
+    <h2
+      className="title"
+    >
+      👇通过以下方式贡献情话👇
+    </h2>
+    <div
+      className="content"
+    >
+      <div
+        className="way"
+      >
+        <h3
+          className="head"
+        >
+          方式一：
+        </h3>
+        <p
+          className="con"
+        >
+          如果你知道Github并且会如何使用，可以通过
+          <a
+            href="https://github.com/zerosoul/honeyed-words-generator#%E8%B4%A1%E7%8C%AE%E5%9C%9F%E5%91%B3%E6%83%85%E8%AF%9D"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            这里贡献情话
+          </a>
+          ，或者直接提
+          <a
+            href="https://github.com/zerosoul/honeyed-words-generator/issues"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            ISSUES
+          </a>
+        </p>
+      </div>
+      <div
+        className="way"
+      >
+        <h3
+          className="head"
+        >
+          方式二：
+        </h3>
+        <p
+          className="con"
+        >
+          如果你不懂技术，只懂情话，那就联系作者吧，让作者代劳咯，微信：
+          <em>
+            yanggc_2013
+          </em>
+          。
+        </p>
+      </div>
+    </div>
+  </section>,
+  <div
+    className="sc-AxiKw iEoqMZ"
+  >
+    <button
+      className="sc-AxjAm sc-AxirZ eHHfiB  visible"
+      onClick={[Function]}
+    />
+    <div
+      className="tip "
+    >
+      👈贡献情话
+    </div>
+  </div>,
+]
+`;
+
+exports[`component AddWords AddWords should match snapshot 2`] = `
+Array [
+  <section
+    className="sc-AxhCb iZhZLK visible"
+  >
+    <h2
+      className="title"
+    >
+      👇通过以下方式贡献情话👇
+    </h2>
+    <div
+      className="content"
+    >
+      <div
+        className="way"
+      >
+        <h3
+          className="head"
+        >
+          方式一：
+        </h3>
+        <p
+          className="con"
+        >
+          如果你知道Github并且会如何使用，可以通过
+          <a
+            href="https://github.com/zerosoul/honeyed-words-generator#%E8%B4%A1%E7%8C%AE%E5%9C%9F%E5%91%B3%E6%83%85%E8%AF%9D"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            这里贡献情话
+          </a>
+          ，或者直接提
+          <a
+            href="https://github.com/zerosoul/honeyed-words-generator/issues"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            ISSUES
+          </a>
+        </p>
+      </div>
+      <div
+        className="way"
+      >
+        <h3
+          className="head"
+        >
+          方式二：
+        </h3>
+        <p
+          className="con"
+        >
+          如果你不懂技术，只懂情话，那就联系作者吧，让作者代劳咯，微信：
+          <em>
+            yanggc_2013
+          </em>
+          。
+        </p>
+      </div>
+    </div>
+  </section>,
+  <div
+    className="sc-AxiKw iEoqMZ"
+  >
+    <button
+      className="sc-AxjAm sc-AxirZ eHHfiB close visible"
+      onClick={[Function]}
+    />
+    <div
+      className="tip hidden"
+    >
+      👈贡献情话
+    </div>
+  </div>,
+]
+`;

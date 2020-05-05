@@ -1,0 +1,270 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`component Card Card should match snapshot 1`] = `
+<section
+  className="sc-AxirZ dEBDMa hidden"
+>
+  <div
+    className="card"
+    id="HONEYED_WORDS_CARD"
+  >
+    <p
+      className="line"
+    />
+    <div
+      className="dbg qr"
+    >
+      <svg
+        height={50}
+        shapeRendering="crispEdges"
+        viewBox="0 0 25 25"
+        width={50}
+      >
+        <path
+          d="M0,0 h25v25H0z"
+          fill="#f2f2f2"
+        />
+        <path
+          d="M0 0h7v1H0zM10 0h2v1H10zM14 0h3v1H14zM18,0 h7v1H18zM0 1h1v1H0zM6 1h1v1H6zM8 1h1v1H8zM16 1h1v1H16zM18 1h1v1H18zM24,1 h1v1H24zM0 2h1v1H0zM2 2h3v1H2zM6 2h1v1H6zM9 2h2v1H9zM18 2h1v1H18zM20 2h3v1H20zM24,2 h1v1H24zM0 3h1v1H0zM2 3h3v1H2zM6 3h1v1H6zM8 3h2v1H8zM11 3h2v1H11zM15 3h2v1H15zM18 3h1v1H18zM20 3h3v1H20zM24,3 h1v1H24zM0 4h1v1H0zM2 4h3v1H2zM6 4h1v1H6zM8 4h1v1H8zM12 4h1v1H12zM14 4h1v1H14zM18 4h1v1H18zM20 4h3v1H20zM24,4 h1v1H24zM0 5h1v1H0zM6 5h1v1H6zM9 5h4v1H9zM16 5h1v1H16zM18 5h1v1H18zM24,5 h1v1H24zM0 6h7v1H0zM8 6h1v1H8zM10 6h1v1H10zM12 6h1v1H12zM14 6h1v1H14zM16 6h1v1H16zM18,6 h7v1H18zM8 7h3v1H8zM12 7h2v1H12zM16 7h1v1H16zM1 8h1v1H1zM3 8h4v1H3zM8 8h1v1H8zM10 8h1v1H10zM12 8h2v1H12zM15 8h1v1H15zM17 8h2v1H17zM20 8h2v1H20zM23 8h1v1H23zM0 9h1v1H0zM2 9h2v1H2zM5 9h1v1H5zM12 9h2v1H12zM15 9h1v1H15zM19 9h5v1H19zM0 10h1v1H0zM2 10h1v1H2zM4 10h4v1H4zM15 10h5v1H15zM21 10h1v1H21zM24,10 h1v1H24zM3 11h2v1H3zM8 11h1v1H8zM15 11h2v1H15zM19,11 h6v1H19zM1 12h2v1H1zM5 12h2v1H5zM9 12h1v1H9zM15 12h1v1H15zM18 12h2v1H18zM24,12 h1v1H24zM0 13h1v1H0zM2 13h1v1H2zM7 13h2v1H7zM15 13h2v1H15zM20 13h1v1H20zM23 13h1v1H23zM0 14h3v1H0zM5 14h3v1H5zM15 14h1v1H15zM18 14h2v1H18zM21,14 h4v1H21zM0 15h1v1H0zM3 15h3v1H3zM8 15h2v1H8zM12 15h2v1H12zM15 15h1v1H15zM17 15h3v1H17zM22 15h1v1H22zM24,15 h1v1H24zM0 16h1v1H0zM3 16h2v1H3zM6 16h4v1H6zM14 16h1v1H14zM16 16h5v1H16zM22 16h2v1H22zM8 17h2v1H8zM16 17h1v1H16zM20 17h1v1H20zM23 17h1v1H23zM0 18h7v1H0zM10 18h5v1H10zM16 18h1v1H16zM18 18h1v1H18zM20 18h2v1H20zM24,18 h1v1H24zM0 19h1v1H0zM6 19h1v1H6zM8 19h2v1H8zM11 19h1v1H11zM14 19h3v1H14zM20 19h1v1H20zM23,19 h2v1H23zM0 20h1v1H0zM2 20h3v1H2zM6 20h1v1H6zM8 20h1v1H8zM11 20h3v1H11zM15 20h7v1H15zM24,20 h1v1H24zM0 21h1v1H0zM2 21h3v1H2zM6 21h1v1H6zM8 21h1v1H8zM12 21h3v1H12zM16 21h3v1H16zM21 21h1v1H21zM23,21 h2v1H23zM0 22h1v1H0zM2 22h3v1H2zM6 22h1v1H6zM10 22h4v1H10zM15 22h3v1H15zM19 22h2v1H19zM22,22 h3v1H22zM0 23h1v1H0zM6 23h1v1H6zM8 23h1v1H8zM10 23h5v1H10zM19 23h2v1H19zM22,23 h3v1H22zM0 24h7v1H0zM11 24h2v1H11zM14 24h1v1H14zM16 24h3v1H16zM21 24h1v1H21zM24,24 h1v1H24z"
+          fill="#000"
+        />
+        <image
+          height={5}
+          preserveAspectRatio="none"
+          width={5}
+          x={10}
+          xlinkHref="../assets/imgs/logo.png"
+          y={10}
+        />
+      </svg>
+      <div
+        className="tip"
+      >
+        土味情话
+      </div>
+    </div>
+    <img
+      alt="lover"
+      className="dbg lover"
+      src={Object {}}
+    />
+    <img
+      alt="birds"
+      className="dbg birds"
+      src={Object {}}
+    />
+  </div>
+</section>
+`;
+
+exports[`component Card Card should match snapshot 2`] = `
+<section
+  className="sc-AxirZ dEBDMa visible"
+>
+  <div
+    className="card"
+    id="HONEYED_WORDS_CARD"
+  >
+    <p
+      className="line"
+    >
+      <span
+        className="sc-AxjAm sc-AxiKw diQvdE word"
+        style={
+          Object {
+            "animationDelay": "0s",
+          }
+        }
+      >
+        有
+      </span>
+      <span
+        className="sc-AxjAm sc-AxiKw diQvdE word"
+        style={
+          Object {
+            "animationDelay": "0.2s",
+          }
+        }
+      >
+        趣
+      </span>
+      <span
+        className="sc-AxjAm sc-AxiKw diQvdE word"
+        style={
+          Object {
+            "animationDelay": "0.4s",
+          }
+        }
+      >
+        的
+      </span>
+      <span
+        className="sc-AxjAm sc-AxiKw diQvdE word"
+        style={
+          Object {
+            "animationDelay": "0.6000000000000001s",
+          }
+        }
+      >
+        地
+      </span>
+      <span
+        className="sc-AxjAm sc-AxiKw diQvdE word"
+        style={
+          Object {
+            "animationDelay": "0.8s",
+          }
+        }
+      >
+        方
+      </span>
+      <span
+        className="sc-AxjAm sc-AxiKw diQvdE word"
+        style={
+          Object {
+            "animationDelay": "1s",
+          }
+        }
+      >
+        都
+      </span>
+      <span
+        className="sc-AxjAm sc-AxiKw diQvdE word"
+        style={
+          Object {
+            "animationDelay": "1.2000000000000002s",
+          }
+        }
+      >
+        想
+      </span>
+      <span
+        className="sc-AxjAm sc-AxiKw diQvdE word"
+        style={
+          Object {
+            "animationDelay": "1.4000000000000001s",
+          }
+        }
+      >
+        去
+      </span>
+      <span
+        className="sc-AxjAm sc-AxiKw diQvdE word"
+        style={
+          Object {
+            "animationDelay": "1.6s",
+          }
+        }
+      >
+        ​
+      </span>
+    </p>
+    <p
+      className="line"
+    >
+      <span
+        className="sc-AxjAm sc-AxiKw diQvdE word"
+        style={
+          Object {
+            "animationDelay": "1.8s",
+          }
+        }
+      >
+        比
+      </span>
+      <span
+        className="sc-AxjAm sc-AxiKw diQvdE word"
+        style={
+          Object {
+            "animationDelay": "2s",
+          }
+        }
+      >
+        如
+      </span>
+      <span
+        className="sc-AxjAm sc-AxiKw diQvdE word"
+        style={
+          Object {
+            "animationDelay": "2.2s",
+          }
+        }
+      >
+        你
+      </span>
+      <span
+        className="sc-AxjAm sc-AxiKw diQvdE word"
+        style={
+          Object {
+            "animationDelay": "2.4000000000000004s",
+          }
+        }
+      >
+        的
+      </span>
+      <span
+        className="sc-AxjAm sc-AxiKw diQvdE word"
+        style={
+          Object {
+            "animationDelay": "2.6s",
+          }
+        }
+      >
+        世
+      </span>
+      <span
+        className="sc-AxjAm sc-AxiKw diQvdE word"
+        style={
+          Object {
+            "animationDelay": "2.8000000000000003s",
+          }
+        }
+      >
+        界
+      </span>
+    </p>
+    <div
+      className="dbg qr"
+    >
+      <svg
+        height={50}
+        shapeRendering="crispEdges"
+        viewBox="0 0 25 25"
+        width={50}
+      >
+        <path
+          d="M0,0 h25v25H0z"
+          fill="#f2f2f2"
+        />
+        <path
+          d="M0 0h7v1H0zM10 0h2v1H10zM14 0h3v1H14zM18,0 h7v1H18zM0 1h1v1H0zM6 1h1v1H6zM8 1h1v1H8zM16 1h1v1H16zM18 1h1v1H18zM24,1 h1v1H24zM0 2h1v1H0zM2 2h3v1H2zM6 2h1v1H6zM9 2h2v1H9zM18 2h1v1H18zM20 2h3v1H20zM24,2 h1v1H24zM0 3h1v1H0zM2 3h3v1H2zM6 3h1v1H6zM8 3h2v1H8zM11 3h2v1H11zM15 3h2v1H15zM18 3h1v1H18zM20 3h3v1H20zM24,3 h1v1H24zM0 4h1v1H0zM2 4h3v1H2zM6 4h1v1H6zM8 4h1v1H8zM12 4h1v1H12zM14 4h1v1H14zM18 4h1v1H18zM20 4h3v1H20zM24,4 h1v1H24zM0 5h1v1H0zM6 5h1v1H6zM9 5h4v1H9zM16 5h1v1H16zM18 5h1v1H18zM24,5 h1v1H24zM0 6h7v1H0zM8 6h1v1H8zM10 6h1v1H10zM12 6h1v1H12zM14 6h1v1H14zM16 6h1v1H16zM18,6 h7v1H18zM8 7h3v1H8zM12 7h2v1H12zM16 7h1v1H16zM1 8h1v1H1zM3 8h4v1H3zM8 8h1v1H8zM10 8h1v1H10zM12 8h2v1H12zM15 8h1v1H15zM17 8h2v1H17zM20 8h2v1H20zM23 8h1v1H23zM0 9h1v1H0zM2 9h2v1H2zM5 9h1v1H5zM12 9h2v1H12zM15 9h1v1H15zM19 9h5v1H19zM0 10h1v1H0zM2 10h1v1H2zM4 10h4v1H4zM15 10h5v1H15zM21 10h1v1H21zM24,10 h1v1H24zM3 11h2v1H3zM8 11h1v1H8zM15 11h2v1H15zM19,11 h6v1H19zM1 12h2v1H1zM5 12h2v1H5zM9 12h1v1H9zM15 12h1v1H15zM18 12h2v1H18zM24,12 h1v1H24zM0 13h1v1H0zM2 13h1v1H2zM7 13h2v1H7zM15 13h2v1H15zM20 13h1v1H20zM23 13h1v1H23zM0 14h3v1H0zM5 14h3v1H5zM15 14h1v1H15zM18 14h2v1H18zM21,14 h4v1H21zM0 15h1v1H0zM3 15h3v1H3zM8 15h2v1H8zM12 15h2v1H12zM15 15h1v1H15zM17 15h3v1H17zM22 15h1v1H22zM24,15 h1v1H24zM0 16h1v1H0zM3 16h2v1H3zM6 16h4v1H6zM14 16h1v1H14zM16 16h5v1H16zM22 16h2v1H22zM8 17h2v1H8zM16 17h1v1H16zM20 17h1v1H20zM23 17h1v1H23zM0 18h7v1H0zM10 18h5v1H10zM16 18h1v1H16zM18 18h1v1H18zM20 18h2v1H20zM24,18 h1v1H24zM0 19h1v1H0zM6 19h1v1H6zM8 19h2v1H8zM11 19h1v1H11zM14 19h3v1H14zM20 19h1v1H20zM23,19 h2v1H23zM0 20h1v1H0zM2 20h3v1H2zM6 20h1v1H6zM8 20h1v1H8zM11 20h3v1H11zM15 20h7v1H15zM24,20 h1v1H24zM0 21h1v1H0zM2 21h3v1H2zM6 21h1v1H6zM8 21h1v1H8zM12 21h3v1H12zM16 21h3v1H16zM21 21h1v1H21zM23,21 h2v1H23zM0 22h1v1H0zM2 22h3v1H2zM6 22h1v1H6zM10 22h4v1H10zM15 22h3v1H15zM19 22h2v1H19zM22,22 h3v1H22zM0 23h1v1H0zM6 23h1v1H6zM8 23h1v1H8zM10 23h5v1H10zM19 23h2v1H19zM22,23 h3v1H22zM0 24h7v1H0zM11 24h2v1H11zM14 24h1v1H14zM16 24h3v1H16zM21 24h1v1H21zM24,24 h1v1H24z"
+          fill="#000"
+        />
+        <image
+          height={5}
+          preserveAspectRatio="none"
+          width={5}
+          x={10}
+          xlinkHref="../assets/imgs/logo.png"
+          y={10}
+        />
+      </svg>
+      <div
+        className="tip"
+      >
+        土味情话
+      </div>
+    </div>
+    <img
+      alt="lover"
+      className="dbg lover"
+      src={Object {}}
+    />
+    <img
+      alt="birds"
+      className="dbg birds"
+      src={Object {}}
+    />
+  </div>
+</section>
+`;

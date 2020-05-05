@@ -1,0 +1,179 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`component Header Header should match snapshot 1`] = `
+<header
+  className="sc-AxiKw cBIvkF"
+>
+  <img
+    alt="logo"
+    className="logo"
+    src={Object {}}
+  />
+  <div
+    className="title"
+  >
+    <span
+      className="sc-AxjAm sc-AxhCb fVqQdo"
+      style={
+        Object {
+          "animationDelay": "0s",
+        }
+      }
+    >
+      甜
+      <em
+        className="pinyin"
+      >
+        <i
+          className="w"
+          style={
+            Object {
+              "animationDelay": "1.2s",
+            }
+          }
+        >
+          tǔ
+        </i>
+      </em>
+    </span>
+    <span
+      className="sc-AxjAm sc-AxhCb fVqQdo"
+      style={
+        Object {
+          "animationDelay": "0.3s",
+        }
+      }
+    >
+      言
+      <em
+        className="pinyin"
+      >
+        <i
+          className="w"
+          style={
+            Object {
+              "animationDelay": "1.5s",
+            }
+          }
+        >
+          wèi
+        </i>
+      </em>
+    </span>
+    <span
+      className="sc-AxjAm sc-AxhCb fVqQdo"
+      style={
+        Object {
+          "animationDelay": "0.6s",
+        }
+      }
+    >
+      蜜
+      <em
+        className="pinyin"
+      >
+        <i
+          className="w"
+          style={
+            Object {
+              "animationDelay": "1.7999999999999998s",
+            }
+          }
+        >
+          qíng
+        </i>
+      </em>
+    </span>
+    <span
+      className="sc-AxjAm sc-AxhCb fVqQdo"
+      style={
+        Object {
+          "animationDelay": "0.8999999999999999s",
+        }
+      }
+    >
+      语
+      <em
+        className="pinyin"
+      >
+        <i
+          className="w"
+          style={
+            Object {
+              "animationDelay": "2.0999999999999996s",
+            }
+          }
+        >
+          huà
+        </i>
+      </em>
+    </span>
+  </div>
+  <button
+    className="sc-AxirZ kYecUW"
+    onClick={[MockFunction]}
+  >
+    开始
+    <img
+      alt="heart"
+      className="heart"
+      src={Object {}}
+      style={
+        Object {
+          "animationDelay": "0s",
+        }
+      }
+    />
+    <img
+      alt="heart"
+      className="heart"
+      src={Object {}}
+      style={
+        Object {
+          "animationDelay": "0.3s",
+        }
+      }
+    />
+    <img
+      alt="heart"
+      className="heart"
+      src={Object {}}
+      style={
+        Object {
+          "animationDelay": "0.6s",
+        }
+      }
+    />
+    <img
+      alt="heart"
+      className="heart"
+      src={Object {}}
+      style={
+        Object {
+          "animationDelay": "0.8999999999999999s",
+        }
+      }
+    />
+    <img
+      alt="heart"
+      className="heart"
+      src={Object {}}
+      style={
+        Object {
+          "animationDelay": "1.2s",
+        }
+      }
+    />
+    <img
+      alt="heart"
+      className="heart"
+      src={Object {}}
+      style={
+        Object {
+          "animationDelay": "1.5s",
+        }
+      }
+    />
+  </button>
+</header>
+`;

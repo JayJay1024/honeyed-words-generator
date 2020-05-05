@@ -1,0 +1,72 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`component Loading Loading should match snapshot 1`] = `
+<div
+  className="sc-AxjAm kiYbhS"
+  size={40}
+>
+  <div
+    className="sc-AxirZ eOTCMo"
+    color="#fff"
+    size={40}
+    x={-2.5}
+    y={17.5}
+  />
+  <div
+    className="sc-AxirZ fSSoeC"
+    color="#fff"
+    size={40}
+    x={10.355752193730785}
+    y={12.82088886237956}
+  />
+  <div
+    className="sc-AxirZ iickvF"
+    color="#fff"
+    size={40}
+    x={17.19615506024416}
+    y={0.9729635533386083}
+  />
+  <div
+    className="sc-AxirZ kmZkvc"
+    color="#fff"
+    size={40}
+    x={14.820508075688775}
+    y={-12.499999999999996}
+  />
+  <div
+    className="sc-AxirZ dZmLJd"
+    color="#fff"
+    size={40}
+    x={4.340402866513378}
+    y={-21.293852415718167}
+  />
+  <div
+    className="sc-AxirZ fHuNNd"
+    color="#fff"
+    size={40}
+    x={-9.340402866513372}
+    y={-21.29385241571817}
+  />
+  <div
+    className="sc-AxirZ elIjNP"
+    color="#fff"
+    size={40}
+    x={-19.82050807568877}
+    y={-12.500000000000009}
+  />
+  <div
+    className="sc-AxirZ kfmQIc"
+    color="#fff"
+    size={40}
+    x={-22.196155060244163}
+    y={0.9729635533385994}
+  />
+  <div
+    className="sc-AxirZ ifoecJ"
+    color="#fff"
+    size={40}
+    x={-15.355752193730792}
+    y={12.820888862379556}
+  />
+</div>
+`;

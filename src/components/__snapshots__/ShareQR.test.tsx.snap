@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`component RefreshButton RefreshButton should match snapshot 1`] = `
+Array [
+  <section
+    className="sc-AxhCb ezhhYK hidden"
+  >
+    <div
+      className="title"
+    >
+      👇长按或右键保存，发朋友圈或发给TA表白👇
+    </div>
+    <div
+      className="qr hidden"
+      id="QR_DOWNLOAD"
+    >
+      <div
+        className="img"
+      >
+        <svg
+          height={256}
+          shapeRendering="crispEdges"
+          viewBox="0 0 37 37"
+          width={256}
+        >
+          <path
+            d="M0,0 h37v37H0z"
+            fill="#fff"
+          />
+          <path
+            d="M4 4h7v1H4zM12 4h1v1H12zM18 4h1v1H18zM22 4h3v1H22zM26,4 h7v1H26zM4 5h1v1H4zM10 5h1v1H10zM14 5h1v1H14zM16 5h1v1H16zM18 5h1v1H18zM22 5h1v1H22zM26 5h1v1H26zM32,5 h1v1H32zM4 6h1v1H4zM6 6h3v1H6zM10 6h1v1H10zM13 6h1v1H13zM15 6h5v1H15zM23 6h2v1H23zM26 6h1v1H26zM28 6h3v1H28zM32,6 h1v1H32zM4 7h1v1H4zM6 7h3v1H6zM10 7h1v1H10zM13 7h4v1H13zM18 7h4v1H18zM26 7h1v1H26zM28 7h3v1H28zM32,7 h1v1H32zM4 8h1v1H4zM6 8h3v1H6zM10 8h1v1H10zM12 8h3v1H12zM18 8h1v1H18zM21 8h4v1H21zM26 8h1v1H26zM28 8h3v1H28zM32,8 h1v1H32zM4 9h1v1H4zM10 9h1v1H10zM12 9h1v1H12zM16 9h1v1H16zM18 9h3v1H18zM22 9h1v1H22zM24 9h1v1H24zM26 9h1v1H26zM32,9 h1v1H32zM4 10h7v1H4zM12 10h1v1H12zM14 10h1v1H14zM16 10h1v1H16zM18 10h1v1H18zM20 10h1v1H20zM22 10h1v1H22zM24 10h1v1H24zM26,10 h7v1H26zM14 11h1v1H14zM20 11h1v1H20zM23 11h1v1H23zM5 12h7v1H5zM14 12h6v1H14zM21 12h1v1H21zM27 12h2v1H27zM32,12 h1v1H32zM5 13h2v1H5zM8 13h2v1H8zM11 13h2v1H11zM16 13h1v1H16zM18 13h2v1H18zM21 13h4v1H21zM26 13h5v1H26zM32,13 h1v1H32zM5 14h1v1H5zM8 14h4v1H8zM14 14h2v1H14zM17 14h2v1H17zM24 14h1v1H24zM26 14h5v1H26zM4 15h2v1H4zM8 15h2v1H8zM12 15h2v1H12zM15 15h2v1H15zM22 15h1v1H22zM24 15h1v1H24zM26 15h2v1H26zM29 15h1v1H29zM31 15h1v1H31zM4 16h2v1H4zM7 16h1v1H7zM10 16h3v1H10zM15 16h1v1H15zM21 16h1v1H21zM25 16h1v1H25zM30,16 h3v1H30zM6 17h2v1H6zM14 17h2v1H14zM21 17h6v1H21zM28 17h2v1H28zM32,17 h1v1H32zM5 18h2v1H5zM8 18h1v1H8zM10 18h1v1H10zM14 18h2v1H14zM21 18h1v1H21zM24 18h1v1H24zM31 18h1v1H31zM4 19h3v1H4zM9 19h1v1H9zM12 19h1v1H12zM15 19h1v1H15zM22 19h3v1H22zM29 19h1v1H29zM32,19 h1v1H32zM7 20h1v1H7zM10 20h3v1H10zM14 20h2v1H14zM21 20h1v1H21zM23 20h1v1H23zM27 20h1v1H27zM29 20h2v1H29zM32,20 h1v1H32zM4 21h2v1H4zM9 21h1v1H9zM12 21h1v1H12zM19 21h8v1H19zM28 21h1v1H28zM30,21 h3v1H30zM4 22h1v1H4zM6 22h6v1H6zM15 22h2v1H15zM18 22h1v1H18zM22 22h1v1H22zM26 22h1v1H26zM28 22h2v1H28zM4 23h1v1H4zM6 23h1v1H6zM9 23h1v1H9zM13 23h1v1H13zM20 23h1v1H20zM22 23h1v1H22zM24 23h1v1H24zM26 23h1v1H26zM29 23h1v1H29zM32,23 h1v1H32zM4 24h1v1H4zM8 24h1v1H8zM10 24h2v1H10zM13 24h5v1H13zM20 24h2v1H20zM24 24h5v1H24zM30 24h1v1H30zM32,24 h1v1H32zM12 25h1v1H12zM15 25h4v1H15zM20 25h1v1H20zM22 25h1v1H22zM24 25h1v1H24zM28 25h2v1H28zM31,25 h2v1H31zM4 26h7v1H4zM12 26h2v1H12zM15 26h1v1H15zM19 26h2v1H19zM23 26h2v1H23zM26 26h1v1H26zM28 26h1v1H28zM31 26h1v1H31zM4 27h1v1H4zM10 27h1v1H10zM12 27h2v1H12zM16 27h1v1H16zM18 27h1v1H18zM23 27h2v1H23zM28 27h2v1H28zM31 27h1v1H31zM4 28h1v1H4zM6 28h3v1H6zM10 28h1v1H10zM12 28h3v1H12zM16 28h2v1H16zM19 28h1v1H19zM21 28h1v1H21zM24 28h7v1H24zM4 29h1v1H4zM6 29h3v1H6zM10 29h1v1H10zM12 29h3v1H12zM18 29h2v1H18zM21 29h2v1H21zM27 29h1v1H27zM29 29h1v1H29zM4 30h1v1H4zM6 30h3v1H6zM10 30h1v1H10zM12 30h1v1H12zM15 30h2v1H15zM19 30h1v1H19zM21 30h1v1H21zM23 30h4v1H23zM28 30h1v1H28zM31 30h1v1H31zM4 31h1v1H4zM10 31h1v1H10zM12 31h9v1H12zM24 31h1v1H24zM26 31h1v1H26zM28 31h2v1H28zM31 31h1v1H31zM4 32h7v1H4zM14 32h1v1H14zM16 32h2v1H16zM19 32h3v1H19zM23 32h1v1H23zM25 32h2v1H25zM28 32h3v1H28z"
+            fill="#000"
+          />
+          <image
+            height={4.3359375}
+            preserveAspectRatio="none"
+            width={4.3359375}
+            x={16.33203125}
+            xlinkHref="../assets/imgs/logo.png"
+            y={16.33203125}
+          />
+        </svg>
+        <div
+          className="tip"
+        >
+          💓想对你说的话，就在这里！💓
+        </div>
+      </div>
+    </div>
+  </section>,
+  <div
+    className="sc-AxiKw eXqIfc"
+  >
+    <button
+      className="sc-AxjAm sc-AxirZ eHHfiB  visible"
+      onClick={[Function]}
+    />
+    <div
+      className="tip"
+    >
+      分享这句话 👉
+    </div>
+  </div>,
+]
+`;
